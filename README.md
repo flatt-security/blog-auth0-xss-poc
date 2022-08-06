@@ -10,8 +10,8 @@
 SPAに関しては、ベースとした https://github.com/auth0-samples/auth0-javascript-samples/tree/master/01-Login も参考にしてください。
 
 1. `front` 直下でSPAを起動します
-  1. `auth_config.json.example` を参考に `auth.config.json` を作成します。
-  2. `npm i && npm start`
+    1. `auth_config.json.example` を参考に `auth.config.json` を作成します。
+    2. `npm i && npm start`
 2. `api_server` 直下でAPIサーバを起動します(`run.sh`)
 
 # 免責事項
